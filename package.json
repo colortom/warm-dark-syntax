@@ -1,0 +1,18 @@
+{
+  "name": "Warm-Dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "dark syntax theme with warm colors",
+  "keywords": [
+    "dark",
+    "warm",
+    "clear",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/colortom/warm-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
